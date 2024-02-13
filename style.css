@@ -72,10 +72,6 @@ aside article p {
     margin-right: 1rem;
 }
 
-.p-1 {
-    padding: 1rem;
-}
-
 .p-lg-4 {
     padding: 4rem;
 }
@@ -153,5 +149,4 @@ p {
     .p-sm-2 {
         padding: 2rem;
     }
-
 }
